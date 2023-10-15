@@ -9,10 +9,10 @@ The script will automatically scan all IP ranges when the user specifies the fir
 
 ## Language Used
 
-Bash Scripting
+Bash Scripting.
 ## Tools Used
 
-Network Mapper (NMAP)
+Network Mapper (NMAP).
 ## Installation
  
 `git clone https://github.com/aditya-bhos04/subnet-scanner.git`
@@ -22,6 +22,10 @@ Network Mapper (NMAP)
 `./subnet.scanner.sh`
 
 Enter Your IP Address (Ex :- 192.168.1.0/24) :- 
+
+##Output
+
+It will be stored in the nmap.log file in the current directory.
 
 ## Authors
 

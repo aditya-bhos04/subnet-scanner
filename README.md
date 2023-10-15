@@ -23,7 +23,7 @@ Network Mapper (NMAP).
 
 Enter Your IP Address (Ex :- 192.168.1.0/24) :- 
 
-##Output
+## Output
 
 It will be stored in the nmap.log file in the current directory.
 

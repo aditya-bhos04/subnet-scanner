@@ -15,9 +15,7 @@ Bash Scripting
 Network Mapper (NMAP)
 ## Installation
  
-`git clone <LINK>`
-
-`cd subnet-scanner/`
+`git clone https://github.com/aditya-bhos04/subnet-scanner.git`
 
 `chmod +x subnet-scanner.sh`
 

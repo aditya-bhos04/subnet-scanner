@@ -27,5 +27,5 @@ Enter Your IP Address (Ex :- 192.168.1.0/24) :-
 
 ## Authors
 
-- [@aditya-bhos04](https://www.github.com/aditya-bhos04)
+@aditya-bhos04](https://www.github.com/aditya-bhos04)
 

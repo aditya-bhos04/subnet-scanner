@@ -15,13 +15,13 @@ Bash Scripting
 Network Mapper (NMAP)
 ## Installation
  
-git clone <LINK>
+`git clone <LINK>`
 
-cd subnet-scanner/
+`cd subnet-scanner/`
 
-chmod +x subnet-scanner.sh
+`chmod +x subnet-scanner.sh`
 
-./subnet.scanner.sh
+`./subnet.scanner.sh`
 
 Enter Your IP Address (Ex :- 192.168.1.0/24) :- 
 

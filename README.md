@@ -30,7 +30,6 @@ Network Mapper (NMAP).
 It will be stored in the nmap.log file in the current directory.
 
 > [!WARNING]
-
 > Don't stop the script process until it is completed; else, the result won't be saved in the file
 
 ## Authors

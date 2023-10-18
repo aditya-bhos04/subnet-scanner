@@ -6,9 +6,14 @@
 
 scan ()
 {
-        for test in $(seq 1 254)
+        for set1 in $(seq 1 254)
         do
-                nmap $ip.$test -T5 | tee nmap.log
+        {
+                for set2 in $(seq 1 254)
+                do
+                        nmap $ip.$set1.$set2 -T5 | tee nmap.log
+                done
+        }
         done
 }
 

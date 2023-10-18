@@ -17,5 +17,5 @@ scan ()
         done
 }
 
-read -p "Enter Your IP Address (Ex :- 192.168.1) :- " ip
+read -p "Enter Your IP Address (Ex :- 192.168) :- " ip
 scan $ip                                                                                                                                                                                

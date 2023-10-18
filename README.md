@@ -15,15 +15,23 @@ Bash Scripting.
 Network Mapper (NMAP).
 ## Installation
  
-```git clone https://github.com/aditya-bhos04/subnet-scanner.git```
+```bash
+ git clone https://github.com/aditya-bhos04/subnet-scanner.git
+```
 
-```cd subnet-scanner```
+```bash
+ cd subnet-scanner
+```
 
-```chmod +x subnet-scanner.sh```
+```bash
+ chmod +x subnet-scanner.sh
+```
 
-```./subnet-scanner.sh```
+```bash
+./subnet-scanner.sh
+```
 
-> Enter Your IP Address (Ex :- 192.168.1) :- 
+> Enter Your IP Address (Ex :- 192.168) :- 
 
 ## Output
 

@@ -2,7 +2,7 @@
 
 This Script is very useful for the Network Penetration Tester working in the IT Company.
 
-The script will automatically scan all IP ranges when the user specifies the first three sets of IP.
+The script will automatically scan all IP ranges when the user specifies the first 2 sets of IP.
 
 
 

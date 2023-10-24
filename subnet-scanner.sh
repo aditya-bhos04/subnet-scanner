@@ -1,8 +1,8 @@
 #!/bin/bash
 #This script is made to scan the multiple IP in one command
-#You just need to give starting 3 set of the IP and Afterwards it Will Automatically scan all the IP subnets
+#You just need to give starting 2 set of the IP and Afterwards it Will Automatically scan all the IP subnets
 #It will store the output of the file in nmap.log
-#Example :- 192.168.1.0/24
+#Example :- 192.168.1.0/16
 
 scan ()
 {
